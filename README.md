@@ -8,6 +8,6 @@ Ao realizar o curso "React do Zero a Maestria (c/ hooks, router, API, Projetos)"
 - React
 - CSS
 - JavaScript
-- 
+
 <p align="center">
 
